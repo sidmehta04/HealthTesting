@@ -4,6 +4,8 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   plugins: [react()],
+  base: "/Health-Camp",
+
   server: {
     open: true, // This will automatically open the browser
     port: 3000  // Optional: specify a port
