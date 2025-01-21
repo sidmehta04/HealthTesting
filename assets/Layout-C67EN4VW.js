@@ -1,4 +1,4 @@
-import{r as t,j as e,aF as b,b as y,u as w,aG as f,U as x,aH as h,aI as k,aJ as C,aK as L,aL as M,aM as D}from"./common-vendor-Dm1O5F_f.js";import{u as j}from"./index-D_kUnxVd.js";import"./firebase-vendor-DMyrRdrZ.js";const p=t.memo(({item:s,userRole:l,isActive:n,onClose:o})=>{if(!s.roles.includes(l))return null;const i=n(s.path),r=s.icon;return e.jsxs(b,{to:s.path,className:`
+import{r as t,j as e,aF as b,b as y,u as w,aG as f,U as x,aH as h,aI as k,aJ as C,aK as L,aL as M,aM as D}from"./common-vendor-Dm1O5F_f.js";import{u as j}from"./index-D5f3LA8Q.js";import"./firebase-vendor-DMyrRdrZ.js";const p=t.memo(({item:s,userRole:l,isActive:n,onClose:o})=>{if(!s.roles.includes(l))return null;const i=n(s.path),r=s.icon;return e.jsxs(b,{to:s.path,className:`
         flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium
         transition-all duration-200
         ${i?"bg-blue-600 text-white shadow-md":"text-gray-600 hover:bg-gray-100"}
