@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Health-Camp",
+  base: "/HealthTesting",
 
   server: {
     open: true, // This will automatically open the browser
