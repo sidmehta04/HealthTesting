@@ -1,0 +1,2412 @@
+{
+  "staffData": {
+    "agents": {
+      "AG002": {
+        "displayName": "Sunita Yadav (AG002)",
+        "empCode": "AG002",
+        "name": "Sunita Yadav",
+        "role": "Agent"
+      },
+      "AG003": {
+        "displayName": "Mohit Agarwal (AG003)",
+        "empCode": "AG003",
+        "name": "Mohit Agarwal",
+        "role": "Agent"
+      }
+    },
+    "districtCoordinators": {
+      "MS00147": {
+        "displayName": "Shivtosh Kumar Singh (MS00147)",
+        "empCode": "MS00147",
+        "name": "Shivtosh Kumar Singh",
+        "role": "DC"
+      },
+      "MS00233": {
+        "displayName": "Sunny (MS00233)",
+        "empCode": "MS00233",
+        "name": "Sunny",
+        "role": "DC"
+      },
+      "MS00237": {
+        "displayName": "Sarun M (MS00237)",
+        "empCode": "MS00237",
+        "name": "Sarun M",
+        "role": "DC"
+      },
+      "MS00302": {
+        "displayName": "Yogesh Shukla (MS00302)",
+        "empCode": "MS00302",
+        "name": "Yogesh Shukla",
+        "role": "DC"
+      },
+      "MS00303": {
+        "displayName": "Harendra Kumar (MS00303)",
+        "empCode": "MS00303",
+        "name": "Harendra Kumar",
+        "role": "DC"
+      },
+      "MS00309": {
+        "displayName": "Wazim Khan (MS00309)",
+        "empCode": "MS00309",
+        "name": "Wazim Khan",
+        "role": "DC"
+      },
+      "MS00317": {
+        "displayName": "Kavisidharth (MS00317)",
+        "empCode": "MS00317",
+        "name": "Kavisidharth",
+        "role": "DC"
+      },
+      "MS00318": {
+        "displayName": "Sastha Murugaiyan (MS00318)",
+        "empCode": "MS00318",
+        "name": "Sastha Murugaiyan",
+        "role": "DC"
+      },
+      "MS00319": {
+        "displayName": "Antony Raj P (MS00319)",
+        "empCode": "MS00319",
+        "name": "Antony Raj P",
+        "role": "DC"
+      },
+      "MS00322": {
+        "displayName": "Aditya Kumar Yadav (MS00322)",
+        "empCode": "MS00322",
+        "name": "Aditya Kumar Yadav",
+        "role": "DC"
+      },
+      "MS00324": {
+        "displayName": "Rabindra Nath Pal (MS00324)",
+        "empCode": "MS00324",
+        "name": "Rabindra Nath Pal",
+        "role": "DC"
+      },
+      "MS00354": {
+        "displayName": "Arbind Gupta (MS00354)",
+        "empCode": "MS00354",
+        "name": "Arbind Gupta",
+        "role": "DC"
+      },
+      "MS00355": {
+        "displayName": "Khus Kumar chitu (MS00355)",
+        "empCode": "MS00355",
+        "name": "Khus Kumar chitu",
+        "role": "DC"
+      },
+      "MS00370": {
+        "displayName": "Sunil Sharma (MS00370)",
+        "empCode": "MS00370",
+        "name": "Sunil Sharma",
+        "role": "DC"
+      },
+      "MS00371": {
+        "displayName": "Digvijay Kumar Singh (MS00371)",
+        "empCode": "MS00371",
+        "name": "Digvijay Kumar Singh",
+        "role": "DC"
+      },
+      "MS00372": {
+        "displayName": "Ritesh Kumar Pal (MS00372)",
+        "empCode": "MS00372",
+        "name": "Ritesh Kumar Pal",
+        "role": "DC"
+      },
+      "MS00394": {
+        "displayName": "Pathan Ashfaq (MS00394)",
+        "empCode": "MS00394",
+        "name": "Pathan Ashfaq",
+        "role": "DC"
+      },
+      "MS00399": {
+        "displayName": "Rahul Chaudhary (MS00399)",
+        "empCode": "MS00399",
+        "name": "Rahul Chaudhary",
+        "role": "DC"
+      },
+      "MS00409": {
+        "displayName": "Shubham Maurya (MS00409)",
+        "empCode": "MS00409",
+        "name": "Shubham Maurya",
+        "role": "DC"
+      },
+      "MS00410": {
+        "displayName": "Ashok Hatagale (MS00410)",
+        "empCode": "MS00410",
+        "name": "Ashok Hatagale",
+        "role": "DC"
+      },
+      "MS00454": {
+        "displayName": "Channu Lal Chandrakar (MS00454)",
+        "empCode": "MS00454",
+        "name": "Channu Lal Chandrakar",
+        "role": "DC"
+      },
+      "MS00475": {
+        "displayName": "Manoj Sharma (MS00475)",
+        "empCode": "MS00475",
+        "name": "Manoj Sharma",
+        "role": "DC"
+      },
+      "MS00501": {
+        "displayName": "KALPESH MADHUKAR AHIRE (MS00501)",
+        "empCode": "MS00501",
+        "name": "KALPESH MADHUKAR AHIRE",
+        "role": "DC"
+      },
+      "MS00505": {
+        "displayName": "Balveer (MS00505)",
+        "empCode": "MS00505",
+        "name": "Balveer",
+        "role": "DC"
+      },
+      "MS00512": {
+        "displayName": "Lokesh Sharma (MS00512)",
+        "empCode": "MS00512",
+        "name": "Lokesh Sharma",
+        "role": "DC"
+      },
+      "MS00521": {
+        "displayName": "Ajay Verma (MS00521)",
+        "empCode": "MS00521",
+        "name": "Ajay Verma",
+        "role": "DC"
+      },
+      "MS00589": {
+        "displayName": "Saran Ramu (MS00589)",
+        "empCode": "MS00589",
+        "name": "Saran Ramu",
+        "role": "DC"
+      },
+      "MS00625": {
+        "displayName": "Makibul (MS00625)",
+        "empCode": "MS00625",
+        "name": "Makibul",
+        "role": "DC"
+      },
+      "MS00639": {
+        "displayName": "DEEPAK PATEL (MS00639)",
+        "empCode": "MS00639",
+        "name": "DEEPAK PATEL",
+        "role": "DC"
+      },
+      "MS00661": {
+        "displayName": "Ashwani Chetiwal (MS00661)",
+        "empCode": "MS00661",
+        "name": "Ashwani Chetiwal",
+        "role": "DC"
+      },
+      "MS00662": {
+        "displayName": "Soumen Shaw (MS00662)",
+        "empCode": "MS00662",
+        "name": "Soumen Shaw",
+        "role": "DC"
+      },
+      "MS00680": {
+        "displayName": "Subham (MS00680)",
+        "empCode": "MS00680",
+        "name": "Subham",
+        "role": "DC"
+      },
+      "MS00703": {
+        "displayName": "MUKSIDUL ISLAM (MS00703)",
+        "empCode": "MS00703",
+        "name": "MUKSIDUL ISLAM",
+        "role": "DC"
+      },
+      "MS00704": {
+        "displayName": "RAZIBUL ISLAM (MS00704)",
+        "empCode": "MS00704",
+        "name": "RAZIBUL ISLAM",
+        "role": "DC"
+      },
+      "MS00705": {
+        "displayName": "SANJIB KUMAR PRASAD (MS00705)",
+        "empCode": "MS00705",
+        "name": "SANJIB KUMAR PRASAD",
+        "role": "DC"
+      },
+      "MS00730": {
+        "displayName": "SATISH KUMAR SHARMA (MS00730)",
+        "empCode": "MS00730",
+        "name": "SATISH KUMAR SHARMA",
+        "role": "DC"
+      },
+      "MS00784": {
+        "displayName": "BIRENDRA KUMAR (MS00784)",
+        "empCode": "MS00784",
+        "name": "BIRENDRA KUMAR",
+        "role": "DC"
+      },
+      "MS00824": {
+        "displayName": "ADITYA RAJ (MS00824)",
+        "empCode": "MS00824",
+        "name": "ADITYA RAJ",
+        "role": "DC"
+      },
+      "MS00909": {
+        "displayName": "SUBHAM SUMAN (MS00909)",
+        "empCode": "MS00909",
+        "name": "SUBHAM SUMAN",
+        "role": "DC"
+      },
+      "MS00939": {
+        "displayName": "K CHAKKARAVARTHY (MS00939)",
+        "empCode": "MS00939",
+        "name": "K CHAKKARAVARTHY",
+        "role": "DC"
+      },
+      "MS00983": {
+        "displayName": "KESHRAJ ANURAGI (MS00983)",
+        "empCode": "MS00983",
+        "name": "KESHRAJ ANURAGI",
+        "role": "DC"
+      },
+      "MS00985": {
+        "displayName": "VIVEK KUMAR YADAV (MS00985)",
+        "empCode": "MS00985",
+        "name": "VIVEK KUMAR YADAV",
+        "role": "DC"
+      },
+      "MS01025": {
+        "displayName": "Ravish Kumar (MS01025)",
+        "empCode": "MS01025",
+        "name": "Ravish Kumar",
+        "role": "DC"
+      },
+      "MS01041": {
+        "displayName": "Priyaranjan Singh (MS01041)",
+        "empCode": "MS01041",
+        "name": "Priyaranjan Singh",
+        "role": "DC"
+      },
+      "MS01054": {
+        "displayName": "AMRIT KUMAR (MS01054)",
+        "empCode": "MS01054",
+        "name": "AMRIT KUMAR",
+        "role": "DC"
+      },
+      "MS01055": {
+        "displayName": "GOVIND KUMAR (MS01055)",
+        "empCode": "MS01055",
+        "name": "GOVIND KUMAR",
+        "role": "DC"
+      },
+      "MS01057": {
+        "displayName": "DEEPAK KUMAR (MS01057)",
+        "empCode": "MS01057",
+        "name": "DEEPAK KUMAR",
+        "role": "DC"
+      },
+      "MS01060": {
+        "displayName": "RAHUL KUMAR GIRI (MS01060)",
+        "empCode": "MS01060",
+        "name": "RAHUL KUMAR GIRI",
+        "role": "DC"
+      },
+      "MS01078": {
+        "displayName": "SHASHIKANT VISHWAKRMA (MS01078)",
+        "empCode": "MS01078",
+        "name": "SHASHIKANT VISHWAKRMA",
+        "role": "DC"
+      },
+      "MS01094": {
+        "displayName": "Asraful Hoque (MS01094)",
+        "empCode": "MS01094",
+        "name": "Asraful Hoque",
+        "role": "DC"
+      },
+      "MS01101": {
+        "displayName": "Kundan Giri Giri (MS01101)",
+        "empCode": "MS01101",
+        "name": "Kundan Giri Giri",
+        "role": "DC"
+      },
+      "MS01119": {
+        "displayName": "Mahmud Khan (MS01119)",
+        "empCode": "MS01119",
+        "name": "Mahmud Khan",
+        "role": "DC"
+      },
+      "MS01121": {
+        "displayName": "B K BILAL MOHAMMED (MS01121)",
+        "empCode": "MS01121",
+        "name": "B K BILAL MOHAMMED",
+        "role": "DC"
+      },
+      "MS01134": {
+        "displayName": "DHANANJAY KUMAR (MS01134)",
+        "empCode": "MS01134",
+        "name": "DHANANJAY KUMAR",
+        "role": "DC"
+      },
+      "MS01142": {
+        "displayName": "SANJIB GARAI (MS01142)",
+        "empCode": "MS01142",
+        "name": "SANJIB GARAI",
+        "role": "DC"
+      },
+      "MS01190": {
+        "displayName": "PARTHA PROTIM HAZARIKA (MS01190)",
+        "empCode": "MS01190",
+        "name": "PARTHA PROTIM HAZARIKA",
+        "role": "DC"
+      },
+      "MS01195": {
+        "displayName": "Sandeep Kumar (MS01195)",
+        "empCode": "MS01195",
+        "name": "Sandeep Kumar",
+        "role": "DC"
+      },
+      "MS01269": {
+        "displayName": "IMMANUEL T T (MS01269)",
+        "empCode": "MS01269",
+        "name": "IMMANUEL T T",
+        "role": "DC"
+      },
+      "MS01271": {
+        "displayName": "SUBODH KUMAR MISHRA KUMAR MISHRA (MS01271)",
+        "empCode": "MS01271",
+        "name": "SUBODH KUMAR MISHRA KUMAR MISHRA",
+        "role": "DC"
+      },
+      "MS01274": {
+        "displayName": "KARTHIK (MS01274)",
+        "empCode": "MS01274",
+        "name": "KARTHIK",
+        "role": "DC"
+      },
+      "MS01276": {
+        "displayName": "RANJIT KUMAR SRIVASTAVA (MS01276)",
+        "empCode": "MS01276",
+        "name": "RANJIT KUMAR SRIVASTAVA",
+        "role": "DC"
+      },
+      "MS01300": {
+        "displayName": "SANJEEV KUMAR (MS01300)",
+        "empCode": "MS01300",
+        "name": "SANJEEV KUMAR",
+        "role": "DC"
+      },
+      "MS01302": {
+        "displayName": "MD SHAKIL ANSAR (MS01302)",
+        "empCode": "MS01302",
+        "name": "MD SHAKIL ANSAR",
+        "role": "DC"
+      },
+      "MS01339": {
+        "displayName": "HIMASHU MAHAPATRO (MS01339)",
+        "empCode": "MS01339",
+        "name": "HIMASHU MAHAPATRO",
+        "role": "DC"
+      },
+      "MS01345": {
+        "displayName": "VENKATESH T YAKKUNDI (MS01345)",
+        "empCode": "MS01345",
+        "name": "VENKATESH T YAKKUNDI",
+        "role": "DC"
+      },
+      "MS01436": {
+        "displayName": "BAJRANG KUMAR RAJ (MS01436)",
+        "empCode": "MS01436",
+        "name": "BAJRANG KUMAR RAJ",
+        "role": "DC"
+      },
+      "MS01453": {
+        "displayName": "SAYANTANU BANIK (MS01453)",
+        "empCode": "MS01453",
+        "name": "SAYANTANU BANIK",
+        "role": "DC"
+      },
+      "MS01456": {
+        "displayName": "Manowar Hussain Ali (MS01456)",
+        "empCode": "MS01456",
+        "name": "Manowar Hussain Ali",
+        "role": "DC"
+      },
+      "MS01466": {
+        "displayName": "ANUP KUMAR (MS01466)",
+        "empCode": "MS01466",
+        "name": "ANUP KUMAR",
+        "role": "DC"
+      },
+      "MS01480": {
+        "displayName": "JADAV PRAKASHKUMAR (MS01480)",
+        "empCode": "MS01480",
+        "name": "JADAV PRAKASHKUMAR",
+        "role": "DC"
+      },
+      "MS01487": {
+        "displayName": "Mukesh Teli (MS01487)",
+        "empCode": "MS01487",
+        "name": "Mukesh Teli",
+        "role": "DC"
+      },
+      "MS01505": {
+        "displayName": "Mebin Thomas (MS01505)",
+        "empCode": "MS01505",
+        "name": "Mebin Thomas",
+        "role": "DC"
+      },
+      "MS01507": {
+        "displayName": "Sunny Dubey (MS01507)",
+        "empCode": "MS01507",
+        "name": "Sunny Dubey",
+        "role": "DC"
+      },
+      "MS01508": {
+        "displayName": "Abhishek kumar (MS01508)",
+        "empCode": "MS01508",
+        "name": "Abhishek kumar",
+        "role": "DC"
+      },
+      "MS01509": {
+        "displayName": "Dipak Rahul Khillare (MS01509)",
+        "empCode": "MS01509",
+        "name": "Dipak Rahul Khillare",
+        "role": "DC"
+      },
+      "MS01510": {
+        "displayName": "Vuriti kiran Rathan Sagar (MS01510)",
+        "empCode": "MS01510",
+        "name": "Vuriti kiran Rathan Sagar",
+        "role": "DC"
+      },
+      "MS01513": {
+        "displayName": "Mintu kumar (MS01513)",
+        "empCode": "MS01513",
+        "name": "Mintu kumar",
+        "role": "DC"
+      },
+      "MS01514": {
+        "displayName": "NAVED (MS01514)",
+        "empCode": "MS01514",
+        "name": "NAVED",
+        "role": "DC"
+      },
+      "MS01517": {
+        "displayName": "MAHESH KUMAR MEHAR (MS01517)",
+        "empCode": "MS01517",
+        "name": "MAHESH KUMAR MEHAR",
+        "role": "DC"
+      },
+      "MS01525": {
+        "displayName": "MD MINHAJUL ABEDIN (MS01525)",
+        "empCode": "MS01525",
+        "name": "MD MINHAJUL ABEDIN",
+        "role": "DC"
+      },
+      "MS01527": {
+        "displayName": "PAWAN CHAUDHARY (MS01527)",
+        "empCode": "MS01527",
+        "name": "PAWAN CHAUDHARY",
+        "role": "DC"
+      },
+      "MS01528": {
+        "displayName": "Anuj Yadav (MS01528)",
+        "empCode": "MS01528",
+        "name": "Anuj Yadav",
+        "role": "DC"
+      },
+      "MS01530": {
+        "displayName": "CHINMOY MANDAL (MS01530)",
+        "empCode": "MS01530",
+        "name": "CHINMOY MANDAL",
+        "role": "DC"
+      },
+      "MS01535": {
+        "displayName": "RAMESH KUMAR PODDAR (MS01535)",
+        "empCode": "MS01535",
+        "name": "RAMESH KUMAR PODDAR",
+        "role": "DC"
+      },
+      "MS01545": {
+        "displayName": "VEERESH P WALMEEKI (MS01545)",
+        "empCode": "MS01545",
+        "name": "VEERESH P WALMEEKI",
+        "role": "DC"
+      },
+      "MS01568": {
+        "displayName": "Abhishek Kumar (MS01568)",
+        "empCode": "MS01568",
+        "name": "Abhishek Kumar",
+        "role": "DC"
+      },
+      "MS01594": {
+        "displayName": "MOHAMMAD TAUFIQUE (MS01594)",
+        "empCode": "MS01594",
+        "name": "MOHAMMAD TAUFIQUE",
+        "role": "DC"
+      },
+      "MS01595": {
+        "displayName": "VISHAL SHARMA (MS01595)",
+        "empCode": "MS01595",
+        "name": "VISHAL SHARMA",
+        "role": "DC"
+      },
+      "MS01599": {
+        "displayName": "Vaghel Arvindbhai (MS01599)",
+        "empCode": "MS01599",
+        "name": "Vaghel Arvindbhai",
+        "role": "DC"
+      },
+      "MS01644": {
+        "displayName": "ABIRON SUVAS MECH (MS01644)",
+        "empCode": "MS01644",
+        "name": "ABIRON SUVAS MECH",
+        "role": "DC"
+      },
+      "MS01646": {
+        "displayName": "MURUGANANTHAM A (MS01646)",
+        "empCode": "MS01646",
+        "name": "MURUGANANTHAM A",
+        "role": "DC"
+      },
+      "MS01647": {
+        "displayName": "SELVAM A (MS01647)",
+        "empCode": "MS01647",
+        "name": "SELVAM A",
+        "role": "DC"
+      },
+      "MS01649": {
+        "displayName": "AVINASH SUBRAMANI (MS01649)",
+        "empCode": "MS01649",
+        "name": "AVINASH SUBRAMANI",
+        "role": "DC"
+      },
+      "MS01650": {
+        "displayName": "SURENDRA SAHU (MS01650)",
+        "empCode": "MS01650",
+        "name": "SURENDRA SAHU",
+        "role": "DC"
+      },
+      "MS01658": {
+        "displayName": "POONAM KUMAR (MS01658)",
+        "empCode": "MS01658",
+        "name": "POONAM KUMAR",
+        "role": "DC"
+      },
+      "MS01659": {
+        "displayName": "DANANJAY KUMAR MISHRA (MS01659)",
+        "empCode": "MS01659",
+        "name": "DANANJAY KUMAR MISHRA",
+        "role": "DC"
+      },
+      "MS02031": {
+        "displayName": "Mohan Kumar P (MS02031)",
+        "empCode": "MS02031",
+        "name": "Mohan Kumar P",
+        "role": "DC"
+      },
+      "MS02034": {
+        "displayName": "Rahul Sakharam Gaikwad (MS02034)",
+        "empCode": "MS02034",
+        "name": "Rahul Sakharam Gaikwad",
+        "role": "DC"
+      },
+      "MS02037": {
+        "displayName": "Ajit Karwasara (MS02037)",
+        "empCode": "MS02037",
+        "name": "Ajit Karwasara",
+        "role": "DC"
+      },
+      "MS02051": {
+        "displayName": "ARPIT SINGH (MS02051)",
+        "empCode": "MS02051",
+        "name": "ARPIT SINGH",
+        "role": "DC"
+      },
+      "MS02054": {
+        "displayName": "RAVI KANT SINGH (MS02054)",
+        "empCode": "MS02054",
+        "name": "RAVI KANT SINGH",
+        "role": "DC"
+      },
+      "MS02057": {
+        "displayName": "Saiful Islam (MS02057)",
+        "empCode": "MS02057",
+        "name": "Saiful Islam",
+        "role": "DC"
+      },
+      "MS02058": {
+        "displayName": "MAHESH BABU AP (MS02058)",
+        "empCode": "MS02058",
+        "name": "MAHESH BABU AP",
+        "role": "DC"
+      },
+      "MS02059": {
+        "displayName": "SivaPrasad S (MS02059)",
+        "empCode": "MS02059",
+        "name": "SivaPrasad S",
+        "role": "DC"
+      },
+      "MS02062": {
+        "displayName": "Pinku Pathak (MS02062)",
+        "empCode": "MS02062",
+        "name": "Pinku Pathak",
+        "role": "DC"
+      },
+      "MS02063": {
+        "displayName": "Narasimhalu (MS02063)",
+        "empCode": "MS02063",
+        "name": "Narasimhalu",
+        "role": "DC"
+      },
+      "MS02064": {
+        "displayName": "Mohammed Nafih C (MS02064)",
+        "empCode": "MS02064",
+        "name": "Mohammed Nafih C",
+        "role": "DC"
+      },
+      "MS02068": {
+        "displayName": "Amjith R L (MS02068)",
+        "empCode": "MS02068",
+        "name": "Amjith R L",
+        "role": "DC"
+      },
+      "MS02069": {
+        "displayName": "ASSEEF P HASSAN (MS02069)",
+        "empCode": "MS02069",
+        "name": "ASSEEF P HASSAN",
+        "role": "DC"
+      },
+      "MS02070": {
+        "displayName": "Harish RamKrishnan (MS02070)",
+        "empCode": "MS02070",
+        "name": "Harish RamKrishnan",
+        "role": "DC"
+      },
+      "MS02071": {
+        "displayName": "Nilanjan De (MS02071)",
+        "empCode": "MS02071",
+        "name": "Nilanjan De",
+        "role": "DC"
+      },
+      "MS02072": {
+        "displayName": "Nagendrappa Gari Naresh (MS02072)",
+        "empCode": "MS02072",
+        "name": "Nagendrappa Gari Naresh",
+        "role": "DC"
+      },
+      "MS02075": {
+        "displayName": "Ajit Singh (MS02075)",
+        "empCode": "MS02075",
+        "name": "Ajit Singh",
+        "role": "DC"
+      },
+      "MS02077": {
+        "displayName": "Domesh Kumar Chandel (MS02077)",
+        "empCode": "MS02077",
+        "name": "Domesh Kumar Chandel",
+        "role": "DC"
+      },
+      "MS02079": {
+        "displayName": "Bhaveshkumar Popatlal Parmar (MS02079)",
+        "empCode": "MS02079",
+        "name": "Bhaveshkumar Popatlal Parmar",
+        "role": "DC"
+      },
+      "MS02080": {
+        "displayName": "Antony Andrews (MS02080)",
+        "empCode": "MS02080",
+        "name": "Antony Andrews",
+        "role": "DC"
+      },
+      "MS02081": {
+        "displayName": "Navneet Kumar Jadav (MS02081)",
+        "empCode": "MS02081",
+        "name": "Navneet Kumar Jadav",
+        "role": "DC"
+      },
+      "MS02088": {
+        "displayName": "Solanki Mehulkumar Rambhai (MS02088)",
+        "empCode": "MS02088",
+        "name": "Solanki Mehulkumar Rambhai",
+        "role": "DC"
+      },
+      "MS02090": {
+        "displayName": "Saif Sait (MS02090)",
+        "empCode": "MS02090",
+        "name": "Saif Sait",
+        "role": "DC"
+      },
+      "MS02104": {
+        "displayName": "Balaram Behera (MS02104)",
+        "empCode": "MS02104",
+        "name": "Balaram Behera",
+        "role": "DC"
+      },
+      "MS02106": {
+        "displayName": "Prithwish Chandra Rarhi (MS02106)",
+        "empCode": "MS02106",
+        "name": "Prithwish Chandra Rarhi",
+        "role": "DC"
+      },
+      "MS02108": {
+        "displayName": "Prince Kumar Singh (MS02108)",
+        "empCode": "MS02108",
+        "name": "Prince Kumar Singh",
+        "role": "DC"
+      },
+      "MS02114": {
+        "displayName": "Amarjeet Kumar Singh (MS02114)",
+        "empCode": "MS02114",
+        "name": "Amarjeet Kumar Singh",
+        "role": "DC"
+      },
+      "MS02315": {
+        "displayName": "Narendra Kumar (MS02315)",
+        "empCode": "MS02315",
+        "name": "Narendra Kumar",
+        "role": "DC"
+      },
+      "MS02318": {
+        "displayName": "Kunduri Chittibabu (MS02318)",
+        "empCode": "MS02318",
+        "name": "Kunduri Chittibabu",
+        "role": "DC"
+      },
+      "MS02328": {
+        "displayName": "Yogendra Kumar (MS02328)",
+        "empCode": "MS02328",
+        "name": "Yogendra Kumar",
+        "role": "DC"
+      },
+      "MS02347": {
+        "displayName": "Gangaraju K (MS02347)",
+        "empCode": "MS02347",
+        "name": "Gangaraju K",
+        "role": "DC"
+      },
+      "MS02354": {
+        "displayName": "Mohd Danish (MS02354)",
+        "empCode": "MS02354",
+        "name": "Mohd Danish",
+        "role": "DC"
+      },
+      "MS02355": {
+        "displayName": "Atmanand (MS02355)",
+        "empCode": "MS02355",
+        "name": "Atmanand",
+        "role": "DC"
+      },
+      "MS02361": {
+        "displayName": "Wasim Ali (MS02361)",
+        "empCode": "MS02361",
+        "name": "Wasim Ali",
+        "role": "DC"
+      },
+      "MS02366": {
+        "displayName": "Praveen Kumar Mani (MS02366)",
+        "empCode": "MS02366",
+        "name": "Praveen Kumar Mani",
+        "role": "DC"
+      },
+      "MS02367": {
+        "displayName": "Karthikeyan Manoharan (MS02367)",
+        "empCode": "MS02367",
+        "name": "Karthikeyan Manoharan",
+        "role": "DC"
+      },
+      "Ms01684": {
+        "displayName": "Eldhose Kurian (Ms01684)",
+        "empCode": "Ms01684",
+        "name": "Eldhose Kurian",
+        "role": "DC"
+      },
+      "Ms01694": {
+        "displayName": "Prince Sharma (Ms01694)",
+        "empCode": "Ms01694",
+        "name": "Prince Sharma",
+        "role": "DC"
+      },
+      "Ms01697": {
+        "displayName": "DIBAKAR BARMAN (Ms01697)",
+        "empCode": "Ms01697",
+        "name": "DIBAKAR BARMAN",
+        "role": "DC"
+      },
+      "Ms01698": {
+        "displayName": "SULTAN FARUKH SAYYED (Ms01698)",
+        "empCode": "Ms01698",
+        "name": "SULTAN FARUKH SAYYED",
+        "role": "DC"
+      },
+      "Ms01699": {
+        "displayName": "VINAY KUMAR (Ms01699)",
+        "empCode": "Ms01699",
+        "name": "VINAY KUMAR",
+        "role": "DC"
+      },
+      "Ms01700": {
+        "displayName": "SONU KUMAR (Ms01700)",
+        "empCode": "Ms01700",
+        "name": "SONU KUMAR",
+        "role": "DC"
+      },
+      "Ms01702": {
+        "displayName": "Praveen Kumar Verma (Ms01702)",
+        "empCode": "Ms01702",
+        "name": "Praveen Kumar Verma",
+        "role": "DC"
+      },
+      "Ms01703": {
+        "displayName": "Mayur Dileep Bhalerao (Ms01703)",
+        "empCode": "Ms01703",
+        "name": "Mayur Dileep Bhalerao",
+        "role": "DC"
+      },
+      "Ms02017": {
+        "displayName": "Prakash Chandra Goswami (Ms02017)",
+        "empCode": "Ms02017",
+        "name": "Prakash Chandra Goswami",
+        "role": "DC"
+      },
+      "Ms02024": {
+        "displayName": "Juliyan Gabriel (Ms02024)",
+        "empCode": "Ms02024",
+        "name": "Juliyan Gabriel",
+        "role": "DC"
+      }
+    },
+    "nurses": {
+      "NUR001": {
+        "displayName": "Priya Sharma (NUR001)",
+        "empCode": "NUR001",
+        "name": "Priya Sharma",
+        "role": "Nurse"
+      },
+      "NUR002": {
+        "displayName": "Anjali Gupta (NUR002)",
+        "empCode": "NUR002",
+        "name": "Anjali Gupta",
+        "role": "Nurse"
+      },
+      "NUR003": {
+        "displayName": "Meera Singh (NUR003)",
+        "empCode": "NUR003",
+        "name": "Meera Singh",
+        "role": "Nurse"
+      },
+      "NUR004": {
+        "displayName": "Deepika Patel (NUR004)",
+        "empCode": "NUR004",
+        "name": "Deepika Patel",
+        "role": "Nurse"
+      },
+      "NUR005": {
+        "displayName": "Sneha Kumar (NUR005)",
+        "empCode": "NUR005",
+        "name": "Sneha Kumar",
+        "role": "Nurse"
+      }
+    },
+    "regionalOfficers": {
+      "RO001": {
+        "displayName": "Sanjay Mehta (RO001)",
+        "empCode": "RO001",
+        "name": "Sanjay Mehta",
+        "role": "RO"
+      },
+      "RO002": {
+        "displayName": "Meera Patel (RO002)",
+        "empCode": "RO002",
+        "name": "Meera Patel",
+        "role": "RO"
+      }
+    },
+    "salesOfficerManagers": {
+      "SOM001": {
+        "displayName": "Vikram Malhotra (SOM001)",
+        "empCode": "SOM001",
+        "name": "Vikram Malhotra",
+        "role": "SOM"
+      },
+      "SOM002": {
+        "displayName": "Deepa Gupta (SOM002)",
+        "empCode": "SOM002",
+        "name": "Deepa Gupta",
+        "role": "SOM"
+      }
+    },
+    "teamLeaders": {
+      "MS00029": {
+        "displayName": "Vipul Kumar Sharma (MS00029)",
+        "empCode": "MS00029",
+        "name": "Vipul Kumar Sharma",
+        "role": "TeamLeader"
+      },
+      "MS00090": {
+        "displayName": "Neha Agrawal (MS00090)",
+        "empCode": "MS00090",
+        "name": "Neha Agrawal",
+        "role": "TeamLeader"
+      },
+      "MS00118": {
+        "displayName": "Anjana Jha (MS00118)",
+        "empCode": "MS00118",
+        "name": "Anjana Jha",
+        "role": "TeamLeader"
+      },
+      "MS01613": {
+        "displayName": "Manjula Dutta (MS01613)",
+        "empCode": "MS01613",
+        "name": "Manjula Dutta",
+        "role": "TeamLeader"
+      },
+      "MS01639": {
+        "displayName": "Dinesh Sekaran R (MS01639)",
+        "empCode": "MS01639",
+        "name": "Dinesh Sekaran R",
+        "role": "TeamLeader"
+      },
+      "MSN0001": {
+        "displayName": "SHUBHAM VERMA (MSN0001)",
+        "empCode": "MSN0001",
+        "name": "SHUBHAM VERMA",
+        "role": "TeamLeader"
+      }
+    }
+  },
+  "staffFlattened": {
+    "AG001": {
+      "displayName": "Ravi Verma (AG001)",
+      "empCode": "AG001",
+      "name": "Ravi Verma",
+      "role": "Agent"
+    },
+    "AG002": {
+      "displayName": "Sunita Yadav (AG002)",
+      "empCode": "AG002",
+      "name": "Sunita Yadav",
+      "role": "Agent"
+    },
+    "AG003": {
+      "displayName": "Mohit Agarwal (AG003)",
+      "empCode": "AG003",
+      "name": "Mohit Agarwal",
+      "role": "Agent"
+    },
+    "MS00029": {
+      "displayName": "Vipul Kumar Sharma (MS00029)",
+      "empCode": "MS00029",
+      "name": "Vipul Kumar Sharma",
+      "role": "TeamLeader"
+    },
+    "MS00090": {
+      "displayName": "Neha Agrawal (MS00090)",
+      "empCode": "MS00090",
+      "name": "Neha Agrawal",
+      "role": "TeamLeader"
+    },
+    "MS00118": {
+      "displayName": "Anjana Jha (MS00118)",
+      "empCode": "MS00118",
+      "name": "Anjana Jha",
+      "role": "TeamLeader"
+    },
+    "MS00147": {
+      "displayName": "Shivtosh Kumar Singh (MS00147)",
+      "empCode": "MS00147",
+      "name": "Shivtosh Kumar Singh",
+      "role": "DC"
+    },
+    "MS00233": {
+      "displayName": "Sunny (MS00233)",
+      "empCode": "MS00233",
+      "name": "Sunny",
+      "role": "DC"
+    },
+    "MS00237": {
+      "displayName": "Sarun M (MS00237)",
+      "empCode": "MS00237",
+      "name": "Sarun M",
+      "role": "DC"
+    },
+    "MS00302": {
+      "displayName": "Yogesh Shukla (MS00302)",
+      "empCode": "MS00302",
+      "name": "Yogesh Shukla",
+      "role": "DC"
+    },
+    "MS00303": {
+      "displayName": "Harendra Kumar (MS00303)",
+      "empCode": "MS00303",
+      "name": "Harendra Kumar",
+      "role": "DC"
+    },
+    "MS00309": {
+      "displayName": "Wazim Khan (MS00309)",
+      "empCode": "MS00309",
+      "name": "Wazim Khan",
+      "role": "DC"
+    },
+    "MS00317": {
+      "displayName": "Kavisidharth (MS00317)",
+      "empCode": "MS00317",
+      "name": "Kavisidharth",
+      "role": "DC"
+    },
+    "MS00318": {
+      "displayName": "Sastha Murugaiyan (MS00318)",
+      "empCode": "MS00318",
+      "name": "Sastha Murugaiyan",
+      "role": "DC"
+    },
+    "MS00319": {
+      "displayName": "Antony Raj P (MS00319)",
+      "empCode": "MS00319",
+      "name": "Antony Raj P",
+      "role": "DC"
+    },
+    "MS00322": {
+      "displayName": "Aditya Kumar Yadav (MS00322)",
+      "empCode": "MS00322",
+      "name": "Aditya Kumar Yadav",
+      "role": "DC"
+    },
+    "MS00324": {
+      "displayName": "Rabindra Nath Pal (MS00324)",
+      "empCode": "MS00324",
+      "name": "Rabindra Nath Pal",
+      "role": "DC"
+    },
+    "MS00354": {
+      "displayName": "Arbind Gupta (MS00354)",
+      "empCode": "MS00354",
+      "name": "Arbind Gupta",
+      "role": "DC"
+    },
+    "MS00355": {
+      "displayName": "Khus Kumar chitu (MS00355)",
+      "empCode": "MS00355",
+      "name": "Khus Kumar chitu",
+      "role": "DC"
+    },
+    "MS00370": {
+      "displayName": "Sunil Sharma (MS00370)",
+      "empCode": "MS00370",
+      "name": "Sunil Sharma",
+      "role": "DC"
+    },
+    "MS00371": {
+      "displayName": "Digvijay Kumar Singh (MS00371)",
+      "empCode": "MS00371",
+      "name": "Digvijay Kumar Singh",
+      "role": "DC"
+    },
+    "MS00372": {
+      "displayName": "Ritesh Kumar Pal (MS00372)",
+      "empCode": "MS00372",
+      "name": "Ritesh Kumar Pal",
+      "role": "DC"
+    },
+    "MS00394": {
+      "displayName": "Pathan Ashfaq (MS00394)",
+      "empCode": "MS00394",
+      "name": "Pathan Ashfaq",
+      "role": "DC"
+    },
+    "MS00399": {
+      "displayName": "Rahul Chaudhary (MS00399)",
+      "empCode": "MS00399",
+      "name": "Rahul Chaudhary",
+      "role": "DC"
+    },
+    "MS00409": {
+      "displayName": "Shubham Maurya (MS00409)",
+      "empCode": "MS00409",
+      "name": "Shubham Maurya",
+      "role": "DC"
+    },
+    "MS00410": {
+      "displayName": "Ashok Hatagale (MS00410)",
+      "empCode": "MS00410",
+      "name": "Ashok Hatagale",
+      "role": "DC"
+    },
+    "MS00454": {
+      "displayName": "Channu Lal Chandrakar (MS00454)",
+      "empCode": "MS00454",
+      "name": "Channu Lal Chandrakar",
+      "role": "DC"
+    },
+    "MS00475": {
+      "displayName": "Manoj Sharma (MS00475)",
+      "empCode": "MS00475",
+      "name": "Manoj Sharma",
+      "role": "DC"
+    },
+    "MS00501": {
+      "displayName": "KALPESH MADHUKAR AHIRE (MS00501)",
+      "empCode": "MS00501",
+      "name": "KALPESH MADHUKAR AHIRE",
+      "role": "DC"
+    },
+    "MS00505": {
+      "displayName": "Balveer (MS00505)",
+      "empCode": "MS00505",
+      "name": "Balveer",
+      "role": "DC"
+    },
+    "MS00512": {
+      "displayName": "Lokesh Sharma (MS00512)",
+      "empCode": "MS00512",
+      "name": "Lokesh Sharma",
+      "role": "DC"
+    },
+    "MS00521": {
+      "displayName": "Ajay Verma (MS00521)",
+      "empCode": "MS00521",
+      "name": "Ajay Verma",
+      "role": "DC"
+    },
+    "MS00589": {
+      "displayName": "Saran Ramu (MS00589)",
+      "empCode": "MS00589",
+      "name": "Saran Ramu",
+      "role": "DC"
+    },
+    "MS00625": {
+      "displayName": "Makibul (MS00625)",
+      "empCode": "MS00625",
+      "name": "Makibul",
+      "role": "DC"
+    },
+    "MS00639": {
+      "displayName": "DEEPAK PATEL (MS00639)",
+      "empCode": "MS00639",
+      "name": "DEEPAK PATEL",
+      "role": "DC"
+    },
+    "MS00661": {
+      "displayName": "Ashwani Chetiwal (MS00661)",
+      "empCode": "MS00661",
+      "name": "Ashwani Chetiwal",
+      "role": "DC"
+    },
+    "MS00662": {
+      "displayName": "Soumen Shaw (MS00662)",
+      "empCode": "MS00662",
+      "name": "Soumen Shaw",
+      "role": "DC"
+    },
+    "MS00680": {
+      "displayName": "Subham (MS00680)",
+      "empCode": "MS00680",
+      "name": "Subham",
+      "role": "DC"
+    },
+    "MS00703": {
+      "displayName": "MUKSIDUL ISLAM (MS00703)",
+      "empCode": "MS00703",
+      "name": "MUKSIDUL ISLAM",
+      "role": "DC"
+    },
+    "MS00704": {
+      "displayName": "RAZIBUL ISLAM (MS00704)",
+      "empCode": "MS00704",
+      "name": "RAZIBUL ISLAM",
+      "role": "DC"
+    },
+    "MS00705": {
+      "displayName": "SANJIB KUMAR PRASAD (MS00705)",
+      "empCode": "MS00705",
+      "name": "SANJIB KUMAR PRASAD",
+      "role": "DC"
+    },
+    "MS00730": {
+      "displayName": "SATISH KUMAR SHARMA (MS00730)",
+      "empCode": "MS00730",
+      "name": "SATISH KUMAR SHARMA",
+      "role": "DC"
+    },
+    "MS00784": {
+      "displayName": "BIRENDRA KUMAR (MS00784)",
+      "empCode": "MS00784",
+      "name": "BIRENDRA KUMAR",
+      "role": "DC"
+    },
+    "MS00824": {
+      "displayName": "ADITYA RAJ (MS00824)",
+      "empCode": "MS00824",
+      "name": "ADITYA RAJ",
+      "role": "DC"
+    },
+    "MS00909": {
+      "displayName": "SUBHAM SUMAN (MS00909)",
+      "empCode": "MS00909",
+      "name": "SUBHAM SUMAN",
+      "role": "DC"
+    },
+    "MS00939": {
+      "displayName": "K CHAKKARAVARTHY (MS00939)",
+      "empCode": "MS00939",
+      "name": "K CHAKKARAVARTHY",
+      "role": "DC"
+    },
+    "MS00983": {
+      "displayName": "KESHRAJ ANURAGI (MS00983)",
+      "empCode": "MS00983",
+      "name": "KESHRAJ ANURAGI",
+      "role": "DC"
+    },
+    "MS00985": {
+      "displayName": "VIVEK KUMAR YADAV (MS00985)",
+      "empCode": "MS00985",
+      "name": "VIVEK KUMAR YADAV",
+      "role": "DC"
+    },
+    "MS01025": {
+      "displayName": "Ravish Kumar (MS01025)",
+      "empCode": "MS01025",
+      "name": "Ravish Kumar",
+      "role": "DC"
+    },
+    "MS01041": {
+      "displayName": "Priyaranjan Singh (MS01041)",
+      "empCode": "MS01041",
+      "name": "Priyaranjan Singh",
+      "role": "DC"
+    },
+    "MS01054": {
+      "displayName": "AMRIT KUMAR (MS01054)",
+      "empCode": "MS01054",
+      "name": "AMRIT KUMAR",
+      "role": "DC"
+    },
+    "MS01055": {
+      "displayName": "GOVIND KUMAR (MS01055)",
+      "empCode": "MS01055",
+      "name": "GOVIND KUMAR",
+      "role": "DC"
+    },
+    "MS01057": {
+      "displayName": "DEEPAK KUMAR (MS01057)",
+      "empCode": "MS01057",
+      "name": "DEEPAK KUMAR",
+      "role": "DC"
+    },
+    "MS01060": {
+      "displayName": "RAHUL KUMAR GIRI (MS01060)",
+      "empCode": "MS01060",
+      "name": "RAHUL KUMAR GIRI",
+      "role": "DC"
+    },
+    "MS01078": {
+      "displayName": "SHASHIKANT VISHWAKRMA (MS01078)",
+      "empCode": "MS01078",
+      "name": "SHASHIKANT VISHWAKRMA",
+      "role": "DC"
+    },
+    "MS01094": {
+      "displayName": "Asraful Hoque (MS01094)",
+      "empCode": "MS01094",
+      "name": "Asraful Hoque",
+      "role": "DC"
+    },
+    "MS01101": {
+      "displayName": "Kundan Giri Giri (MS01101)",
+      "empCode": "MS01101",
+      "name": "Kundan Giri Giri",
+      "role": "DC"
+    },
+    "MS01119": {
+      "displayName": "Mahmud Khan (MS01119)",
+      "empCode": "MS01119",
+      "name": "Mahmud Khan",
+      "role": "DC"
+    },
+    "MS01121": {
+      "displayName": "B K BILAL MOHAMMED (MS01121)",
+      "empCode": "MS01121",
+      "name": "B K BILAL MOHAMMED",
+      "role": "DC"
+    },
+    "MS01134": {
+      "displayName": "DHANANJAY KUMAR (MS01134)",
+      "empCode": "MS01134",
+      "name": "DHANANJAY KUMAR",
+      "role": "DC"
+    },
+    "MS01142": {
+      "displayName": "SANJIB GARAI (MS01142)",
+      "empCode": "MS01142",
+      "name": "SANJIB GARAI",
+      "role": "DC"
+    },
+    "MS01190": {
+      "displayName": "PARTHA PROTIM HAZARIKA (MS01190)",
+      "empCode": "MS01190",
+      "name": "PARTHA PROTIM HAZARIKA",
+      "role": "DC"
+    },
+    "MS01195": {
+      "displayName": "Sandeep Kumar (MS01195)",
+      "empCode": "MS01195",
+      "name": "Sandeep Kumar",
+      "role": "DC"
+    },
+    "MS01269": {
+      "displayName": "IMMANUEL T T (MS01269)",
+      "empCode": "MS01269",
+      "name": "IMMANUEL T T",
+      "role": "DC"
+    },
+    "MS01271": {
+      "displayName": "SUBODH KUMAR MISHRA KUMAR MISHRA (MS01271)",
+      "empCode": "MS01271",
+      "name": "SUBODH KUMAR MISHRA KUMAR MISHRA",
+      "role": "DC"
+    },
+    "MS01274": {
+      "displayName": "KARTHIK (MS01274)",
+      "empCode": "MS01274",
+      "name": "KARTHIK",
+      "role": "DC"
+    },
+    "MS01276": {
+      "displayName": "RANJIT KUMAR SRIVASTAVA (MS01276)",
+      "empCode": "MS01276",
+      "name": "RANJIT KUMAR SRIVASTAVA",
+      "role": "DC"
+    },
+    "MS01300": {
+      "displayName": "SANJEEV KUMAR (MS01300)",
+      "empCode": "MS01300",
+      "name": "SANJEEV KUMAR",
+      "role": "DC"
+    },
+    "MS01302": {
+      "displayName": "MD SHAKIL ANSAR (MS01302)",
+      "empCode": "MS01302",
+      "name": "MD SHAKIL ANSAR",
+      "role": "DC"
+    },
+    "MS01339": {
+      "displayName": "HIMASHU MAHAPATRO (MS01339)",
+      "empCode": "MS01339",
+      "name": "HIMASHU MAHAPATRO",
+      "role": "DC"
+    },
+    "MS01345": {
+      "displayName": "VENKATESH T YAKKUNDI (MS01345)",
+      "empCode": "MS01345",
+      "name": "VENKATESH T YAKKUNDI",
+      "role": "DC"
+    },
+    "MS01436": {
+      "displayName": "BAJRANG KUMAR RAJ (MS01436)",
+      "empCode": "MS01436",
+      "name": "BAJRANG KUMAR RAJ",
+      "role": "DC"
+    },
+    "MS01453": {
+      "displayName": "SAYANTANU BANIK (MS01453)",
+      "empCode": "MS01453",
+      "name": "SAYANTANU BANIK",
+      "role": "DC"
+    },
+    "MS01456": {
+      "displayName": "Manowar Hussain Ali (MS01456)",
+      "empCode": "MS01456",
+      "name": "Manowar Hussain Ali",
+      "role": "DC"
+    },
+    "MS01466": {
+      "displayName": "ANUP KUMAR (MS01466)",
+      "empCode": "MS01466",
+      "name": "ANUP KUMAR",
+      "role": "DC"
+    },
+    "MS01480": {
+      "displayName": "JADAV PRAKASHKUMAR (MS01480)",
+      "empCode": "MS01480",
+      "name": "JADAV PRAKASHKUMAR",
+      "role": "DC"
+    },
+    "MS01487": {
+      "displayName": "Mukesh Teli (MS01487)",
+      "empCode": "MS01487",
+      "name": "Mukesh Teli",
+      "role": "DC"
+    },
+    "MS01505": {
+      "displayName": "Mebin Thomas (MS01505)",
+      "empCode": "MS01505",
+      "name": "Mebin Thomas",
+      "role": "DC"
+    },
+    "MS01507": {
+      "displayName": "Sunny Dubey (MS01507)",
+      "empCode": "MS01507",
+      "name": "Sunny Dubey",
+      "role": "DC"
+    },
+    "MS01508": {
+      "displayName": "Abhishek kumar (MS01508)",
+      "empCode": "MS01508",
+      "name": "Abhishek kumar",
+      "role": "DC"
+    },
+    "MS01509": {
+      "displayName": "Dipak Rahul Khillare (MS01509)",
+      "empCode": "MS01509",
+      "name": "Dipak Rahul Khillare",
+      "role": "DC"
+    },
+    "MS01510": {
+      "displayName": "Vuriti kiran Rathan Sagar (MS01510)",
+      "empCode": "MS01510",
+      "name": "Vuriti kiran Rathan Sagar",
+      "role": "DC"
+    },
+    "MS01513": {
+      "displayName": "Mintu kumar (MS01513)",
+      "empCode": "MS01513",
+      "name": "Mintu kumar",
+      "role": "DC"
+    },
+    "MS01514": {
+      "displayName": "NAVED (MS01514)",
+      "empCode": "MS01514",
+      "name": "NAVED",
+      "role": "DC"
+    },
+    "MS01517": {
+      "displayName": "MAHESH KUMAR MEHAR (MS01517)",
+      "empCode": "MS01517",
+      "name": "MAHESH KUMAR MEHAR",
+      "role": "DC"
+    },
+    "MS01525": {
+      "displayName": "MD MINHAJUL ABEDIN (MS01525)",
+      "empCode": "MS01525",
+      "name": "MD MINHAJUL ABEDIN",
+      "role": "DC"
+    },
+    "MS01527": {
+      "displayName": "PAWAN CHAUDHARY (MS01527)",
+      "empCode": "MS01527",
+      "name": "PAWAN CHAUDHARY",
+      "role": "DC"
+    },
+    "MS01528": {
+      "displayName": "Anuj Yadav (MS01528)",
+      "empCode": "MS01528",
+      "name": "Anuj Yadav",
+      "role": "DC"
+    },
+    "MS01530": {
+      "displayName": "CHINMOY MANDAL (MS01530)",
+      "empCode": "MS01530",
+      "name": "CHINMOY MANDAL",
+      "role": "DC"
+    },
+    "MS01535": {
+      "displayName": "RAMESH KUMAR PODDAR (MS01535)",
+      "empCode": "MS01535",
+      "name": "RAMESH KUMAR PODDAR",
+      "role": "DC"
+    },
+    "MS01545": {
+      "displayName": "VEERESH P WALMEEKI (MS01545)",
+      "empCode": "MS01545",
+      "name": "VEERESH P WALMEEKI",
+      "role": "DC"
+    },
+    "MS01568": {
+      "displayName": "Abhishek Kumar (MS01568)",
+      "empCode": "MS01568",
+      "name": "Abhishek Kumar",
+      "role": "DC"
+    },
+    "MS01594": {
+      "displayName": "MOHAMMAD TAUFIQUE (MS01594)",
+      "empCode": "MS01594",
+      "name": "MOHAMMAD TAUFIQUE",
+      "role": "DC"
+    },
+    "MS01595": {
+      "displayName": "VISHAL SHARMA (MS01595)",
+      "empCode": "MS01595",
+      "name": "VISHAL SHARMA",
+      "role": "DC"
+    },
+    "MS01599": {
+      "displayName": "Vaghel Arvindbhai (MS01599)",
+      "empCode": "MS01599",
+      "name": "Vaghel Arvindbhai",
+      "role": "DC"
+    },
+    "MS01613": {
+      "displayName": "Manjula Dutta (MS01613)",
+      "empCode": "MS01613",
+      "name": "Manjula Dutta",
+      "role": "TeamLeader"
+    },
+    "MS01639": {
+      "displayName": "Dinesh Sekaran R (MS01639)",
+      "empCode": "MS01639",
+      "name": "Dinesh Sekaran R",
+      "role": "TeamLeader"
+    },
+    "MS01644": {
+      "displayName": "ABIRON SUVAS MECH (MS01644)",
+      "empCode": "MS01644",
+      "name": "ABIRON SUVAS MECH",
+      "role": "DC"
+    },
+    "MS01646": {
+      "displayName": "MURUGANANTHAM A (MS01646)",
+      "empCode": "MS01646",
+      "name": "MURUGANANTHAM A",
+      "role": "DC"
+    },
+    "MS01647": {
+      "displayName": "SELVAM A (MS01647)",
+      "empCode": "MS01647",
+      "name": "SELVAM A",
+      "role": "DC"
+    },
+    "MS01649": {
+      "displayName": "AVINASH SUBRAMANI (MS01649)",
+      "empCode": "MS01649",
+      "name": "AVINASH SUBRAMANI",
+      "role": "DC"
+    },
+    "MS01650": {
+      "displayName": "SURENDRA SAHU (MS01650)",
+      "empCode": "MS01650",
+      "name": "SURENDRA SAHU",
+      "role": "DC"
+    },
+    "MS01658": {
+      "displayName": "POONAM KUMAR (MS01658)",
+      "empCode": "MS01658",
+      "name": "POONAM KUMAR",
+      "role": "DC"
+    },
+    "MS01659": {
+      "displayName": "DANANJAY KUMAR MISHRA (MS01659)",
+      "empCode": "MS01659",
+      "name": "DANANJAY KUMAR MISHRA",
+      "role": "DC"
+    },
+    "MS02031": {
+      "displayName": "Mohan Kumar P (MS02031)",
+      "empCode": "MS02031",
+      "name": "Mohan Kumar P",
+      "role": "DC"
+    },
+    "MS02034": {
+      "displayName": "Rahul Sakharam Gaikwad (MS02034)",
+      "empCode": "MS02034",
+      "name": "Rahul Sakharam Gaikwad",
+      "role": "DC"
+    },
+    "MS02037": {
+      "displayName": "Ajit Karwasara (MS02037)",
+      "empCode": "MS02037",
+      "name": "Ajit Karwasara",
+      "role": "DC"
+    },
+    "MS02051": {
+      "displayName": "ARPIT SINGH (MS02051)",
+      "empCode": "MS02051",
+      "name": "ARPIT SINGH",
+      "role": "DC"
+    },
+    "MS02054": {
+      "displayName": "RAVI KANT SINGH (MS02054)",
+      "empCode": "MS02054",
+      "name": "RAVI KANT SINGH",
+      "role": "DC"
+    },
+    "MS02057": {
+      "displayName": "Saiful Islam (MS02057)",
+      "empCode": "MS02057",
+      "name": "Saiful Islam",
+      "role": "DC"
+    },
+    "MS02058": {
+      "displayName": "MAHESH BABU AP (MS02058)",
+      "empCode": "MS02058",
+      "name": "MAHESH BABU AP",
+      "role": "DC"
+    },
+    "MS02059": {
+      "displayName": "SivaPrasad S (MS02059)",
+      "empCode": "MS02059",
+      "name": "SivaPrasad S",
+      "role": "DC"
+    },
+    "MS02062": {
+      "displayName": "Pinku Pathak (MS02062)",
+      "empCode": "MS02062",
+      "name": "Pinku Pathak",
+      "role": "DC"
+    },
+    "MS02063": {
+      "displayName": "Narasimhalu (MS02063)",
+      "empCode": "MS02063",
+      "name": "Narasimhalu",
+      "role": "DC"
+    },
+    "MS02064": {
+      "displayName": "Mohammed Nafih C (MS02064)",
+      "empCode": "MS02064",
+      "name": "Mohammed Nafih C",
+      "role": "DC"
+    },
+    "MS02068": {
+      "displayName": "Amjith R L (MS02068)",
+      "empCode": "MS02068",
+      "name": "Amjith R L",
+      "role": "DC"
+    },
+    "MS02069": {
+      "displayName": "ASSEEF P HASSAN (MS02069)",
+      "empCode": "MS02069",
+      "name": "ASSEEF P HASSAN",
+      "role": "DC"
+    },
+    "MS02070": {
+      "displayName": "Harish RamKrishnan (MS02070)",
+      "empCode": "MS02070",
+      "name": "Harish RamKrishnan",
+      "role": "DC"
+    },
+    "MS02071": {
+      "displayName": "Nilanjan De (MS02071)",
+      "empCode": "MS02071",
+      "name": "Nilanjan De",
+      "role": "DC"
+    },
+    "MS02072": {
+      "displayName": "Nagendrappa Gari Naresh (MS02072)",
+      "empCode": "MS02072",
+      "name": "Nagendrappa Gari Naresh",
+      "role": "DC"
+    },
+    "MS02075": {
+      "displayName": "Ajit Singh (MS02075)",
+      "empCode": "MS02075",
+      "name": "Ajit Singh",
+      "role": "DC"
+    },
+    "MS02077": {
+      "displayName": "Domesh Kumar Chandel (MS02077)",
+      "empCode": "MS02077",
+      "name": "Domesh Kumar Chandel",
+      "role": "DC"
+    },
+    "MS02079": {
+      "displayName": "Bhaveshkumar Popatlal Parmar (MS02079)",
+      "empCode": "MS02079",
+      "name": "Bhaveshkumar Popatlal Parmar",
+      "role": "DC"
+    },
+    "MS02080": {
+      "displayName": "Antony Andrews (MS02080)",
+      "empCode": "MS02080",
+      "name": "Antony Andrews",
+      "role": "DC"
+    },
+    "MS02081": {
+      "displayName": "Navneet Kumar Jadav (MS02081)",
+      "empCode": "MS02081",
+      "name": "Navneet Kumar Jadav",
+      "role": "DC"
+    },
+    "MS02088": {
+      "displayName": "Solanki Mehulkumar Rambhai (MS02088)",
+      "empCode": "MS02088",
+      "name": "Solanki Mehulkumar Rambhai",
+      "role": "DC"
+    },
+    "MS02090": {
+      "displayName": "Saif Sait (MS02090)",
+      "empCode": "MS02090",
+      "name": "Saif Sait",
+      "role": "DC"
+    },
+    "MS02104": {
+      "displayName": "Balaram Behera (MS02104)",
+      "empCode": "MS02104",
+      "name": "Balaram Behera",
+      "role": "DC"
+    },
+    "MS02106": {
+      "displayName": "Prithwish Chandra Rarhi (MS02106)",
+      "empCode": "MS02106",
+      "name": "Prithwish Chandra Rarhi",
+      "role": "DC"
+    },
+    "MS02108": {
+      "displayName": "Prince Kumar Singh (MS02108)",
+      "empCode": "MS02108",
+      "name": "Prince Kumar Singh",
+      "role": "DC"
+    },
+    "MS02114": {
+      "displayName": "Amarjeet Kumar Singh (MS02114)",
+      "empCode": "MS02114",
+      "name": "Amarjeet Kumar Singh",
+      "role": "DC"
+    },
+    "MS02315": {
+      "displayName": "Narendra Kumar (MS02315)",
+      "empCode": "MS02315",
+      "name": "Narendra Kumar",
+      "role": "DC"
+    },
+    "MS02318": {
+      "displayName": "Kunduri Chittibabu (MS02318)",
+      "empCode": "MS02318",
+      "name": "Kunduri Chittibabu",
+      "role": "DC"
+    },
+    "MS02328": {
+      "displayName": "Yogendra Kumar (MS02328)",
+      "empCode": "MS02328",
+      "name": "Yogendra Kumar",
+      "role": "DC"
+    },
+    "MS02347": {
+      "displayName": "Gangaraju K (MS02347)",
+      "empCode": "MS02347",
+      "name": "Gangaraju K",
+      "role": "DC"
+    },
+    "MS02354": {
+      "displayName": "Mohd Danish (MS02354)",
+      "empCode": "MS02354",
+      "name": "Mohd Danish",
+      "role": "DC"
+    },
+    "MS02355": {
+      "displayName": "Atmanand (MS02355)",
+      "empCode": "MS02355",
+      "name": "Atmanand",
+      "role": "DC"
+    },
+    "MS02361": {
+      "displayName": "Wasim Ali (MS02361)",
+      "empCode": "MS02361",
+      "name": "Wasim Ali",
+      "role": "DC"
+    },
+    "MS02366": {
+      "displayName": "Praveen Kumar Mani (MS02366)",
+      "empCode": "MS02366",
+      "name": "Praveen Kumar Mani",
+      "role": "DC"
+    },
+    "MS02367": {
+      "displayName": "Karthikeyan Manoharan (MS02367)",
+      "empCode": "MS02367",
+      "name": "Karthikeyan Manoharan",
+      "role": "DC"
+    },
+    "MSN0001": {
+      "displayName": "SHUBHAM VERMA (MSN0001)",
+      "empCode": "MSN0001",
+      "name": "SHUBHAM VERMA",
+      "role": "TeamLeader"
+    },
+    "Ms01684": {
+      "displayName": "Eldhose Kurian (Ms01684)",
+      "empCode": "Ms01684",
+      "name": "Eldhose Kurian",
+      "role": "DC"
+    },
+    "Ms01694": {
+      "displayName": "Prince Sharma (Ms01694)",
+      "empCode": "Ms01694",
+      "name": "Prince Sharma",
+      "role": "DC"
+    },
+    "Ms01697": {
+      "displayName": "DIBAKAR BARMAN (Ms01697)",
+      "empCode": "Ms01697",
+      "name": "DIBAKAR BARMAN",
+      "role": "DC"
+    },
+    "Ms01698": {
+      "displayName": "SULTAN FARUKH SAYYED (Ms01698)",
+      "empCode": "Ms01698",
+      "name": "SULTAN FARUKH SAYYED",
+      "role": "DC"
+    },
+    "Ms01699": {
+      "displayName": "VINAY KUMAR (Ms01699)",
+      "empCode": "Ms01699",
+      "name": "VINAY KUMAR",
+      "role": "DC"
+    },
+    "Ms01700": {
+      "displayName": "SONU KUMAR (Ms01700)",
+      "empCode": "Ms01700",
+      "name": "SONU KUMAR",
+      "role": "DC"
+    },
+    "Ms01702": {
+      "displayName": "Praveen Kumar Verma (Ms01702)",
+      "empCode": "Ms01702",
+      "name": "Praveen Kumar Verma",
+      "role": "DC"
+    },
+    "Ms01703": {
+      "displayName": "Mayur Dileep Bhalerao (Ms01703)",
+      "empCode": "Ms01703",
+      "name": "Mayur Dileep Bhalerao",
+      "role": "DC"
+    },
+    "Ms02017": {
+      "displayName": "Prakash Chandra Goswami (Ms02017)",
+      "empCode": "Ms02017",
+      "name": "Prakash Chandra Goswami",
+      "role": "DC"
+    },
+    "Ms02024": {
+      "displayName": "Juliyan Gabriel (Ms02024)",
+      "empCode": "Ms02024",
+      "name": "Juliyan Gabriel",
+      "role": "DC"
+    },
+    "NUR001": {
+      "displayName": "Priya Sharma (NUR001)",
+      "empCode": "NUR001",
+      "name": "Priya Sharma",
+      "role": "Nurse"
+    },
+    "NUR002": {
+      "displayName": "Anjali Gupta (NUR002)",
+      "empCode": "NUR002",
+      "name": "Anjali Gupta",
+      "role": "Nurse"
+    },
+    "NUR003": {
+      "displayName": "Meera Singh (NUR003)",
+      "empCode": "NUR003",
+      "name": "Meera Singh",
+      "role": "Nurse"
+    },
+    "NUR004": {
+      "displayName": "Deepika Patel (NUR004)",
+      "empCode": "NUR004",
+      "name": "Deepika Patel",
+      "role": "Nurse"
+    },
+    "NUR005": {
+      "displayName": "Sneha Kumar (NUR005)",
+      "empCode": "NUR005",
+      "name": "Sneha Kumar",
+      "role": "Nurse"
+    },
+    "RO001": {
+      "displayName": "Sanjay Mehta (RO001)",
+      "empCode": "RO001",
+      "name": "Sanjay Mehta",
+      "role": "RO"
+    },
+    "RO002": {
+      "displayName": "Meera Patel (RO002)",
+      "empCode": "RO002",
+      "name": "Meera Patel",
+      "role": "RO"
+    },
+    "SOM001": {
+      "displayName": "Vikram Malhotra (SOM001)",
+      "empCode": "SOM001",
+      "name": "Vikram Malhotra",
+      "role": "SOM"
+    },
+    "SOM002": {
+      "displayName": "Deepa Gupta (SOM002)",
+      "empCode": "SOM002",
+      "name": "Deepa Gupta",
+      "role": "SOM"
+    }
+  },
+  "testEntries": {
+    "-OGtWc7gu0OpKR0SkC0r": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "9",
+      "bookingId": "BK-SFA-M627DVX9-6AF",
+      "city": "Pune",
+      "district": "ADINAGAR",
+      "gender": "male",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-18T13:07:25.919Z",
+        "lastModified": "2025-01-18T13:08:06.174Z",
+        "reportStatusUpdatedAt": "2025-01-18T13:08:06.174Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-18T13:07:55.675Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 180,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "individual1@example.com",
+        "submittedAt": "2025-01-18T13:07:25.919Z",
+        "uid": "BLMW5SBrq1bf4Jz5NkJL7sdUOXH3"
+      },
+      "testCode": "SFA-M627DVX9-6AF",
+      "testName": "Synovial/Joint Fluid Analysis Test",
+      "vendorBookingId": "tyh",
+      "vendorStatus": "completed"
+    },
+    "-OGxRZcyyxsY9-W0nae-": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "10",
+      "bookingId": "BK-CRE-M63AJVD7-POU",
+      "city": "Pune",
+      "district": "Andhra",
+      "gender": "male",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:23:49.458Z",
+        "lastModified": "2025-01-19T07:30:18.388Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:30:18.388Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:25:43.343Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 120,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:23:49.458Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "CRE-M63AJVD7-POU",
+      "testName": "Creatinine Test",
+      "vendorBookingId": "23",
+      "vendorStatus": "completed"
+    },
+    "-OGxRd5TXEe7koxYvU6d": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "3",
+      "bookingId": "BK-RSU-M63AK9DT-Z4W",
+      "city": "Pune",
+      "district": "Andhra",
+      "gender": "male",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:24:07.729Z",
+        "lastModified": "2025-01-19T07:30:10.188Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:30:10.188Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:25:24.543Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 150,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:24:07.729Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "RSU-M63AK9DT-Z4W",
+      "testName": "Reducing Substances, Paediatric Urine Test",
+      "vendorBookingId": "ewr",
+      "vendorStatus": "completed"
+    },
+    "-OGxRi0eU19M08kQR0E9": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "23",
+      "bookingId": "BK-GRT-M63AKPE6-NN7",
+      "city": "Pune",
+      "district": "ANDHRA",
+      "gender": "male",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:24:27.902Z",
+        "lastModified": "2025-01-19T07:30:02.554Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:30:02.554Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:25:35.143Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 90,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:24:27.902Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "GRT-M63AKPE6-NN7",
+      "testName": "Glucose Random Test",
+      "vendorBookingId": "re",
+      "vendorStatus": "completed"
+    },
+    "-OGxRmiAMpyPR_ekBQuh": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "3",
+      "bookingId": "BK-AFB-M63AKZHL-Y7V",
+      "city": "Pune",
+      "district": "er",
+      "gender": "female",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:24:47.135Z",
+        "lastModified": "2025-01-19T07:29:55.334Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:29:55.334Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:25:11.511Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 180,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:24:47.135Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "AFB-M63AKZHL-Y7V",
+      "testName": "Acid Fast Bacilli (AFB) Test (3 Samples)",
+      "vendorBookingId": "er",
+      "vendorStatus": "completed"
+    },
+    "-OGxS5a4R8s4VJWpss5v": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "234",
+      "bookingId": "BK-WTA-M63AMUOX-DC9",
+      "city": "Pune",
+      "district": "ANDHRA",
+      "gender": "female",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:26:08.537Z",
+        "lastModified": "2025-01-19T07:29:48.584Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:29:48.584Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:26:51.389Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 180,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:26:08.537Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "WTA-M63AMUOX-DC9",
+      "testName": "WIDAL Test By Tube Agglutination",
+      "vendorBookingId": "0ttrh",
+      "vendorStatus": "completed"
+    },
+    "-OGxS9eycQbM77yOvx-F": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "33",
+      "bookingId": "BK-GRT-M63AN7UJ-8CA",
+      "city": "Pune",
+      "district": "ANDHRA",
+      "gender": "female",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T07:26:25.234Z",
+        "lastModified": "2025-01-19T07:29:40.435Z",
+        "reportStatusUpdatedAt": "2025-01-19T07:29:40.435Z",
+        "reportStatusUpdatedBy": "healthadmin1@example.com",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-19T07:26:41.591Z",
+        "vendorStatusUpdatedBy": "healthadmin1@example.com"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 90,
+      "reportStatus": "submitted",
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "healthadmin1@example.com",
+        "submittedAt": "2025-01-19T07:26:25.234Z",
+        "uid": "D88HqPqd0JPBHlenLhPKtwnSV8n2"
+      },
+      "testCode": "GRT-M63AN7UJ-8CA",
+      "testName": "Glucose Random Test",
+      "vendorBookingId": "tr",
+      "vendorStatus": "completed"
+    },
+    "-OGxf36luhBvBqytwKzL": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "9",
+      "bookingId": "BK-SFA-M63CT70W-RAM",
+      "city": "Pune",
+      "district": "j",
+      "gender": "male",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-19T08:27:08.730Z",
+        "lastModified": "2025-01-19T08:27:08.730Z",
+        "status": "active"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 180,
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "navneetsingh@m-swasth.in",
+        "submittedAt": "2025-01-19T08:27:08.730Z",
+        "uid": "PLN8eYjpv5SosSFnzohYMtWFHrs1"
+      },
+      "testCode": "SFA-M63CT70W-RAM",
+      "testName": "Synovial/Joint Fluid Analysis Test"
+    },
+    "-OH2KNuT-7gbxRZjnpEy": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "2",
+      "bookingId": "BK-GRT-M64XD1Z8-732",
+      "city": "Pune",
+      "district": "ANDHRA",
+      "gender": "female",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-20T10:50:09.968Z",
+        "lastModified": "2025-01-20T10:50:09.968Z",
+        "status": "active"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 90,
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "navneetsingh@m-swasth.in",
+        "submittedAt": "2025-01-20T10:50:09.968Z",
+        "uid": "PLN8eYjpv5SosSFnzohYMtWFHrs1"
+      },
+      "testCode": "GRT-M64XD1Z8-732",
+      "testName": "Glucose Random Test"
+    },
+    "-OH3PnfzXeFsnB7wrxQS": {
+      "address": "Rajveer Palace Phase 1 L-501 pimple sauadagar pune",
+      "age": "34",
+      "bookingId": "BK-EST-M6587220-DOR",
+      "city": "Pune",
+      "district": "ryt",
+      "gender": "female",
+      "hasPartner": false,
+      "isFree": true,
+      "metadata": {
+        "createdAt": "2025-01-20T15:53:27.647Z",
+        "lastModified": "2025-01-20T15:53:52.439Z",
+        "status": "active",
+        "vendorStatusUpdatedAt": "2025-01-20T15:53:52.439Z",
+        "vendorStatusUpdatedBy": "navneetsingh@m-swasth.in"
+      },
+      "mobileNo": "08830263855",
+      "name": "Sidharth Mehta",
+      "partnerName": "",
+      "partnerReferenceId": "",
+      "paymentMode": "free",
+      "paymentReference": "FREE",
+      "paymentStatus": "completed",
+      "pincode": "411027",
+      "price": 480,
+      "state": "MAHARASHTRA",
+      "submitter": {
+        "email": "navneetsingh@m-swasth.in",
+        "submittedAt": "2025-01-20T15:53:27.647Z",
+        "uid": "PLN8eYjpv5SosSFnzohYMtWFHrs1"
+      },
+      "testCode": "EST-M6587220-DOR",
+      "testName": "Estradiol Test (E2)",
+      "vendorBookingId": "re",
+      "vendorStatus": "completed"
+    }
+  },
+  "users": {
+    "7mmRCJ7DWlc68zxz9Q4ZnWqpK4s1": {
+      "createdAt": "2025-01-17T10:35:39.850Z",
+      "email": "PoorviArya@m-swasth.in",
+      "role": "health-camp-admin",
+      "status": "active"
+    },
+    "BLMW5SBrq1bf4Jz5NkJL7sdUOXH3": {
+      "email": "individual@gmail.com",
+      "lastActive": 1737309931892,
+      "role": "individual-camp-admin",
+      "status": {
+        "lastLogin": 1737309926687,
+        "lastLogout": 1737309931890,
+        "loginIP": "223.233.84.91",
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+      }
+    },
+    "D88HqPqd0JPBHlenLhPKtwnSV8n2": {
+      "email": "healthadmin1@example.com",
+      "lastActive": 1737271996542,
+      "role": "health-camp-admin",
+      "status": {
+        "lastLogin": 1737268742697,
+        "lastLogout": 1737271996341,
+        "loginIP": "223.233.84.91",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    "JQksDCZG6kSBZen1Cs4VhTc8dmO2": {
+      "createdAt": "2025-01-15T09:49:16.680Z",
+      "email": "superadmin@example.com",
+      "lastActive": 1737219167252,
+      "role": "superadmin",
+      "status": {
+        "lastLogin": 1737218931085,
+        "loginIP": "223.233.85.10",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1"
+      }
+    },
+    "NhFofaJgqhU11T5OiHfArkCOV6R2": {
+      "createdAt": "2025-01-17T10:35:43.497Z",
+      "email": "PraveenSultana@m-swasth.in",
+      "role": "individual-camp-admin",
+      "status": "active"
+    },
+    "PLN8eYjpv5SosSFnzohYMtWFHrs1": {
+      "createdAt": "2025-01-17T10:35:36.296Z",
+      "email": "navneetsingh@m-swasth.in",
+      "lastActive": 1737391452567,
+      "role": "superadmin",
+      "status": {
+        "lastLogin": 1737391262746,
+        "loginIP": "223.233.84.91",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    "W7VyiWLW1nSyLi6YHThcH5gxa0x1": {
+      "email": "healthadmin2@example.com",
+      "lastActive": 1737181881751,
+      "role": "health-camp-admin",
+      "status": {
+        "lastLogin": 1737179527594,
+        "lastLogout": 1737181881749,
+        "loginIP": "223.233.84.80",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    "XCnm72Ia7bOSUrEtibulx8Uy3MJ3": {
+      "createdAt": "2025-01-17T10:35:41.039Z",
+      "email": "SubhradeepShah@m-swasth.in",
+      "lastActive": 1737374885231,
+      "role": "individual-camp-admin",
+      "status": {
+        "lastLogin": 1737374882393,
+        "loginIP": "49.37.52.199",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    "fiK5J6UiQZfUhNfsWAWFtfBcplH3": {
+      "email": "individual3@example.com",
+      "role": "individual-camp-admin"
+    },
+    "k6J6j0REqaXsEH596nwNXqVA1Bz2": {
+      "createdAt": "2025-01-17T10:35:38.427Z",
+      "email": "RakshaDubey@m-swasth.in",
+      "lastActive": 1737351944841,
+      "role": "health-camp-admin",
+      "status": {
+        "lastLogin": 1737351282591,
+        "loginIP": "125.63.100.145",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      }
+    },
+    "lXx2AgsM4APcnmHD5Izbdzf5xQU2": {
+      "email": "individual2@example.com",
+      "role": "individual-camp-admin"
+    },
+    "mMpuvAMGIue1g3G5fIVxdABXQrw2": {
+      "createdAt": "2025-01-17T10:35:42.279Z",
+      "email": "RiyaJana@m-swasth.in",
+      "role": "individual-camp-admin",
+      "status": "active"
+    }
+  }
+}
